@@ -1,0 +1,22 @@
+body{
+    width: 600px;
+}
+
+h1{
+    color: darkblue;
+    text-align: center;
+}
+
+div{
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    text-align: center;
+    border: 1px solid darkblue;
+}
+
+div:hover{
+    background-color: yellowgreen;
+    
+}
+
